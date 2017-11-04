@@ -1,0 +1,7 @@
+This build contails all the fixes till date 06152017
+This build is verified by Pavan, he found two issues we resolved and pushed application with the following URL.
+https://dev-bfe-smax-changes-inbound-liquidation-outbound-6.run.aws-usw02-pr.ice.predix.io/invoiceForAllTrackerDemo
+
+IpUsage+RoundDown is implemented in this build.
+
+1 hour 30 min is not part of this build.
